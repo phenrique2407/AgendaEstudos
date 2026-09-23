@@ -9,8 +9,8 @@ A aplicação permite organizar as tarefas de estudo do curso: o usuário digita
 
 ## Links
 
-- Projeto executável (StackBlitz): https://stackblitz.com/github/SEU-USUARIO/agenda-de-estudos
-- Repositório: https://github.com/SEU-USUARIO/agenda-de-estudos
+- Projeto executável (StackBlitz): https://stackblitz.com/github/phenrique2407/AgendaEstudos
+- Repositório: https://github.com/phenrique2407/AgendaEstudos
 
 ## Funcionalidades
 
