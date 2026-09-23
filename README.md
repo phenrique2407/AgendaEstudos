@@ -25,11 +25,11 @@ A aplicação permite organizar as tarefas de estudo do curso: o usuário digita
 
 **Tela inicial (`/`)**
 
-![Tela inicial da Agenda de Estudos](assets/pagina-home.png)
+![Tela inicial da Agenda de Estudos](src/assets/pagina-home.png)
 
 **Tela de tarefas (`/tarefas`)**
 
-![Tela de tarefas com itens adicionados](assets/pagina-tarefas.png)
+![Tela de tarefas com itens adicionados](src/assets/pagina-tarefas.png)
 
 ## Tecnologias
 
