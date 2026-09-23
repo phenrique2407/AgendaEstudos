@@ -4,8 +4,7 @@ Miniaplicação desenvolvida com **Vue 3** e **Vue Router** para a atividade de 
 
 A aplicação permite organizar as tarefas de estudo do curso: o usuário digita uma tarefa, adiciona à lista e acompanha tudo em uma tela dedicada.
 
-**Autor:** SEU NOME AQUI
-**Professor:** Wesley Fioreze
+**Autor:** Pedro Henrique Dias Brito
 
 ## Links
 
