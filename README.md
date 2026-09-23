@@ -21,6 +21,16 @@ A aplicação permite organizar as tarefas de estudo do curso: o usuário digita
 - Após adicionar, o campo de texto é limpo.
 - Também é possível adicionar pressionando **Enter**.
 
+## Capturas de tela
+
+**Tela inicial (`/`)**
+
+![Tela inicial da Agenda de Estudos](assets/tela-inicial.png)
+
+**Tela de tarefas (`/tarefas`)**
+
+![Tela de tarefas com itens adicionados](assets/tela-tarefas.png)
+
 ## Tecnologias
 
 - [Vue 3](https://vuejs.org/) (Composition API com `<script setup>`)
@@ -65,8 +75,8 @@ Pré-requisito: [Node.js](https://nodejs.org/) instalado.
 
 ```bash
 # clonar o repositório
-git clone https://github.com/SEU-USUARIO/agenda-de-estudos.git
-cd agenda-de-estudos
+git clone https://github.com/phenrique2407/AgendaEstudos.git
+cd AgendaEstudos
 
 # instalar as dependências
 npm install
